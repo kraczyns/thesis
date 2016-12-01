@@ -1,0 +1,16 @@
+\contentsline {chapter}{\numberline {1}Wst\IeC {\k e}p}{2}
+\contentsline {section}{\numberline {1.1}Cel pracy}{2}
+\contentsline {section}{\numberline {1.2}Zakres pracy}{2}
+\contentsline {chapter}{\numberline {2}Przetwarzanie obrazu}{3}
+\contentsline {section}{\numberline {2.1}Przetwarzanie do skali szaro\IeC {\'s}ci}{4}
+\contentsline {section}{\numberline {2.2}Binaryzacja}{5}
+\contentsline {subsection}{\numberline {2.2.1}Metoda Otsu}{5}
+\contentsline {section}{\numberline {2.3}Wykrywanie kraw\IeC {\k e}dzi}{7}
+\contentsline {subsection}{\numberline {2.3.1}Detektor Canny}{8}
+\contentsline {chapter}{\numberline {3}Architektura systemu}{10}
+\contentsline {chapter}{\numberline {4}Implementacja}{11}
+\contentsline {chapter}{\numberline {5}Dzia\IeC {\l }anie aplikacji i testy}{12}
+\contentsline {section}{\numberline {5.1}Wymagania wst\IeC {\k e}pne}{12}
+\contentsline {section}{\numberline {5.2}Widok g\IeC {\l }\IeC {\'o}wny}{12}
+\contentsline {section}{\numberline {5.3}Widok docelowy}{13}
+\contentsline {section}{\numberline {5.4}Widok testowy}{13}
