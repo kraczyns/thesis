@@ -1,26 +1,28 @@
 \contentsline {chapter}{\numberline {1}Wst\IeC {\k e}p}{2}
-\contentsline {section}{\numberline {1.1}Cel pracy}{2}
+\contentsline {section}{\numberline {1.1}Cel pracy}{3}
 \contentsline {section}{\numberline {1.2}Zakres pracy}{3}
-\contentsline {chapter}{\numberline {2}Przetwarzanie obrazu}{4}
-\contentsline {section}{\numberline {2.1}Przetwarzanie do skali szaro\IeC {\'s}ci}{5}
-\contentsline {section}{\numberline {2.2}Binaryzacja}{6}
-\contentsline {subsection}{\numberline {2.2.1}Metoda Otsu}{7}
-\contentsline {section}{\numberline {2.3}Wykrywanie kraw\IeC {\k e}dzi}{9}
-\contentsline {subsection}{\numberline {2.3.1}Detektor Canny}{10}
-\contentsline {chapter}{\numberline {3}Architektura systemu}{12}
-\contentsline {chapter}{\numberline {4}Implementacja}{16}
-\contentsline {section}{\numberline {4.1}System operacyjny Android}{16}
-\contentsline {subsection}{\numberline {4.1.1}TextToSpeech - zamiana tekstu na mow\IeC {\k e}}{16}
-\contentsline {subsection}{\numberline {4.1.2}Intencje i aktywno\IeC {\'s}ci - komponenty platformy Android}{17}
-\contentsline {section}{\numberline {4.2}OCR - optyczne rozpoznawanie znak\IeC {\'o}w}{18}
-\contentsline {subsection}{\numberline {4.2.1}Biblioteka Tess4j}{18}
-\contentsline {section}{\numberline {4.3}Biblioteka OpenCV}{19}
+\contentsline {chapter}{\numberline {2}Przetwarzanie obrazu}{5}
+\contentsline {section}{\numberline {2.1}Przetwarzanie do skali szaro\IeC {\'s}ci}{6}
+\contentsline {section}{\numberline {2.2}Binaryzacja}{7}
+\contentsline {subsection}{\numberline {2.2.1}Metoda Otsu}{8}
+\contentsline {section}{\numberline {2.3}Wykrywanie kraw\IeC {\k e}dzi}{10}
+\contentsline {subsection}{\numberline {2.3.1}Detektor Canny}{11}
+\contentsline {chapter}{\numberline {3}Architektura systemu}{13}
+\contentsline {chapter}{\numberline {4}Implementacja}{17}
+\contentsline {section}{\numberline {4.1}System operacyjny Android}{17}
+\contentsline {subsection}{\numberline {4.1.1}TextToSpeech - zamiana tekstu na mow\IeC {\k e}}{17}
+\contentsline {subsection}{\numberline {4.1.2}Intencje i Aktywno\IeC {\'s}ci - komponenty platformy Android}{18}
+\contentsline {section}{\numberline {4.2}OCR - optyczne rozpoznawanie znak\IeC {\'o}w}{19}
+\contentsline {subsection}{\numberline {4.2.1}Biblioteka Tess4j}{19}
+\contentsline {section}{\numberline {4.3}Biblioteka OpenCV}{20}
 \contentsline {subsection}{\numberline {4.3.1}Wykrywanie prostok\IeC {\k a}t\IeC {\'o}w}{20}
-\contentsline {chapter}{\numberline {5}Dzia\IeC {\l }anie aplikacji i testy}{21}
-\contentsline {section}{\numberline {5.1}Wymagania wst\IeC {\k e}pne}{21}
-\contentsline {section}{\numberline {5.2}Widok g\IeC {\l }\IeC {\'o}wny}{21}
-\contentsline {section}{\numberline {5.3}Widok docelowy}{22}
-\contentsline {section}{\numberline {5.4}Widok testowy}{22}
-\contentsline {chapter}{\numberline {6}Zako\IeC {\'n}czenie}{24}
-\contentsline {section}{\numberline {6.1}Podsumowanie}{24}
-\contentsline {section}{\numberline {6.2}Mo\IeC {\.z}liwe rozszerzenie}{24}
+\contentsline {section}{\numberline {4.4}Przetwarzanie wykrytego prostok\IeC {\k a}ta}{21}
+\contentsline {chapter}{\numberline {5}Dzia\IeC {\l }anie aplikacji i testy}{24}
+\contentsline {section}{\numberline {5.1}Wymagania wst\IeC {\k e}pne}{24}
+\contentsline {section}{\numberline {5.2}Widok g\IeC {\l }\IeC {\'o}wny}{24}
+\contentsline {section}{\numberline {5.3}Widok docelowy}{25}
+\contentsline {section}{\numberline {5.4}Widok testowy}{25}
+\contentsline {section}{\numberline {5.5}Testy}{27}
+\contentsline {chapter}{\numberline {6}Zako\IeC {\'n}czenie}{28}
+\contentsline {section}{\numberline {6.1}Podsumowanie}{28}
+\contentsline {section}{\numberline {6.2}Mo\IeC {\.z}liwe rozszerzenie}{28}

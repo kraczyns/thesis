@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.29)  4 DEC 2016 18:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.29)  5 DEC 2016 00:36
 entering extended mode
 **./in≈ºynierka.tex
 (in≈ºynierka.tex
@@ -587,7 +587,10 @@ Package: showlabels 2015/12/08 v1.7
 Package: `showlabels' v1.7 <2015/12/08>
 with amsmath equation tags
 \SL@labelposition=\count111
-) ("R:\Nowy folder\tex\latex\listings\listings.sty"
+) (R:\LaTeX\tex\latex\tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("R:\Nowy folder\tex\latex\listings\listings.sty"
 \lst@mode=\count112
 \lst@gtempboxa=\box29
 \lst@token=\toks24
@@ -617,20 +620,20 @@ Package: courier 2005/04/12 PSNFSS-v9.2a (WaS)
 ) (in≈ºynierka.aux)
 \openout1 = `in≈ºynierka.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 ("R:\Nowy folder\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -706,35 +709,35 @@ Package caption Info: End \AtBeginDocument code.
 \@tempheadsep=\skip67
 \@tempoddsidemargin=\skip68
 \@tempevensidemargin=\skip69
-LaTeX Font Info:    Try loading font information for OML+plm on input line 31.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 32.
 
 ("R:\Nowy folder\tex\latex\polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 31.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 32.
 
 
 ("R:\Nowy folder\tex\latex\polski\omsplsy.fd"
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 31.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 32.
 
 
 ("R:\Nowy folder\tex\latex\polski\omxplex.fd"
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 31.
+(Font)              <12> on input line 32.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 31.
+(Font)              <8> on input line 32.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 31.
-LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+(Font)              <6> on input line 32.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
 
 (R:\LaTeX\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
  (R:\LaTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -761,329 +764,343 @@ Rozdzia\PlPrIeC {\l } 1.
 [2
 
 
-] [3]
+] [3] [4]
 Rozdzia\PlPrIeC {\l } 2.
-<cyklprzetwarzania.png, id=23, 706.13812pt x 389.95688pt>
+<cyklprzetwarzania.png, id=26, 706.13812pt x 389.95688pt>
 File: cyklprzetwarzania.png Graphic file (type png)
 
 <use cyklprzetwarzania.png>
-Package pdftex.def Info: cyklprzetwarzania.png used on input line 48.
+Package pdftex.def Info: cyklprzetwarzania.png used on input line 54.
 (pdftex.def)             Requested size: 353.06819pt x 194.97795pt.
- [4
+ [5
 
 
  <./cyklprzetwarzania.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 60.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 66.
 
 (R:\LaTeX\tex\latex\base\omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--76
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
 
  []
 
-<golinatlo.jpg, id=27, 752.8125pt x 565.11125pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+<golinatlo.jpg, id=30, 752.8125pt x 565.11125pt>
 File: golinatlo.jpg Graphic file (type jpg)
  <use golinatlo.jpg>
-Package pdftex.def Info: golinatlo.jpg used on input line 91.
+Package pdftex.def Info: golinatlo.jpg used on input line 97.
 (pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
 
-<golinalightness.jpg, id=28, 752.8125pt x 565.11125pt>
+<golinalightness.jpg, id=31, 752.8125pt x 565.11125pt>
 File: golinalightness.jpg Graphic file (type jpg)
 
 <use golinalightness.jpg>
-Package pdftex.def Info: golinalightness.jpg used on input line 95.
+Package pdftex.def Info: golinalightness.jpg used on input line 101.
 (pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
- <golinaaverage.jpg, id=29, 752.8125pt x 565.11125pt>
+ <golinaaverage.jpg, id=32, 752.8125pt x 565.11125pt>
 File: golinaaverage.jpg Graphic file (type jpg)
 
 <use golinaaverage.jpg>
-Package pdftex.def Info: golinaaverage.jpg used on input line 99.
+Package pdftex.def Info: golinaaverage.jpg used on input line 105.
 (pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
- <golinaluminance.jpg, id=30, 752.8125pt x 565.11125pt>
+ <golinaluminance.jpg, id=33, 752.8125pt x 565.11125pt>
 File: golinaluminance.jpg Graphic file (type jpg)
 
 <use golinaluminance.jpg>
-Package pdftex.def Info: golinaluminance.jpg used on input line 103.
+Package pdftex.def Info: golinaluminance.jpg used on input line 109.
 (pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
- [5] [6 <./golinatlo.jpg> <./golinalightness.jpg> <./golinaaverage.jpg> <./goli
-naluminance.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 122--125
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--152
-
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 158--162
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--173
-
- []
-
-File: golinatlo.jpg Graphic file (type jpg)
-<use golinatlo.jpg>
-Package pdftex.def Info: golinatlo.jpg used on input line 202.
-(pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
- <golinaotsu.jpg, id=50, 752.8125pt x 565.11125pt>
-File: golinaotsu.jpg Graphic file (type jpg)
-
-<use golinaotsu.jpg>
-Package pdftex.def Info: golinaotsu.jpg used on input line 206.
-(pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
- [8]
-Underfull \hbox (badness 10000) in paragraph at lines 222--229
-
- []
-
-[9 <./golinaotsu.jpg>] [10]
+ [6] [7 <./golinatlo.jpg> <./golinalightness.jpg> <./golinaaverage.jpg> <./goli
+naluminance.jpg>] [8]
 File: golinatlo.jpg Graphic file (type jpg)
  <use golinatlo.jpg>
-Package pdftex.def Info: golinatlo.jpg used on input line 275.
+Package pdftex.def Info: golinatlo.jpg used on input line 192.
 (pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
 
-<golinacanny.jpg, id=63, 752.8125pt x 565.11125pt>
+<golinaotsu.jpg, id=53, 752.8125pt x 565.11125pt>
+File: golinaotsu.jpg Graphic file (type jpg)
+ <use golinaotsu.jpg>
+Package pdftex.def Info: golinaotsu.jpg used on input line 196.
+(pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
+ [9]
+[10 <./golinaotsu.jpg>] [11]
+File: golinatlo.jpg Graphic file (type jpg)
+ <use golinatlo.jpg>
+Package pdftex.def Info: golinatlo.jpg used on input line 258.
+(pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
+
+<golinacanny.jpg, id=66, 752.8125pt x 565.11125pt>
 File: golinacanny.jpg Graphic file (type jpg)
  <use golinacanny.jpg>
-Package pdftex.def Info: golinacanny.jpg used on input line 279.
+Package pdftex.def Info: golinacanny.jpg used on input line 262.
 (pdftex.def)             Requested size: 188.20265pt x 141.27747pt.
 
-[11 <./golinacanny.jpg>]
+[12 <./golinacanny.jpg>]
 Rozdzia\PlPrIeC {\l } 3.
-<diagramuml.png, id=67, 1033.8625pt x 838.13126pt>
+<diagramuml.png, id=71, 1033.8625pt x 838.13126pt>
 File: diagramuml.png Graphic file (type png)
  <use diagramuml.png>
-Package pdftex.def Info: diagramuml.png used on input line 286.
+Package pdftex.def Info: diagramuml.png used on input line 269.
 (pdftex.def)             Requested size: 516.93pt x 419.0646pt.
 
-Overfull \hbox (61.68591pt too wide) in paragraph at lines 286--287
+Overfull \hbox (61.68591pt too wide) in paragraph at lines 269--270
  [][] 
  []
 
-[12
+[13
 
 
- <./diagramuml.png>] [13]
-<usecasediagram.png, id=77, 970.62625pt x 672.5125pt>
+ <./diagramuml.png>]
+Overfull \hbox (3.53181pt too wide) in paragraph at lines 276--277
+\T1/cmr/bx/n/12 inAc-ti-vi-ty\T1/cmr/m/n/12 . W In-ten-cji, zro-bio-ne zdj¶-cie
+ prze-sy-™a-ne jest do funk-cji $\OML/plm/m/it/12 onActivityResult$\T1/cmr/m/n/
+12 ,
+ []
+
+
+Overfull \hbox (6.32228pt too wide) in paragraph at lines 277--278
+\T1/cmr/bx/n/12 ti-vi-ty\T1/cmr/m/n/12 . Zaj-mu-je si¶ ob-s™u-g° Wi-do-ku te-st
+o-we-go, wy-±wie-tla obiek-ty ty-pu $\OML/plm/m/it/12 ImageButton$\T1/cmr/m/n/1
+2 ,
+ []
+
+[14] <usecasediagram.png, id=80, 970.62625pt x 672.5125pt>
 File: usecasediagram.png Graphic file (type png)
- <use usecasediagram.png>
-Package pdftex.def Info: usecasediagram.png used on input line 309.
+
+<use usecasediagram.png>
+Package pdftex.def Info: usecasediagram.png used on input line 292.
 (pdftex.def)             Requested size: 485.31194pt x 336.25542pt.
 
-Overfull \hbox (30.06786pt too wide) in paragraph at lines 309--310
+Overfull \hbox (30.06786pt too wide) in paragraph at lines 292--293
  [][] 
  []
 
-[14] [15 <./usecasediagram.png>]
+[15] [16 <./usecasediagram.png>]
 Rozdzia\PlPrIeC {\l } 4.
-[16
+[17
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 318.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 302.
  (R:\LaTeX\tex\latex\psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 
-LaTeX Warning: Command \' invalid in math mode on input line 334.
+LaTeX Warning: Command \' invalid in math mode on input line 320.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 334.
+LaTeX Warning: Command \' invalid in math mode on input line 320.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 334.
+LaTeX Warning: Command \' invalid in math mode on input line 320.
 
 Missing character: There is no π in font plmi12!
 Missing character: There is no ± in font plmi12!
 Missing character: There is no ¢ in font plmi12!
-
-LaTeX Warning: Citation `android4devs' on page 17 undefined on input line 335.
-
-[17] [18] [19] [20]
+[18] [19] [20] [21] [22] [23]
 Rozdzia\PlPrIeC {\l } 5.
-<glownywidok.png, id=102, 122.859pt x 218.781pt>
+<glownywidok.png, id=111, 122.859pt x 218.781pt>
 File: glownywidok.png Graphic file (type png)
  <use glownywidok.png>
-Package pdftex.def Info: glownywidok.png used on input line 422.
+Package pdftex.def Info: glownywidok.png used on input line 468.
 (pdftex.def)             Requested size: 122.85867pt x 218.78046pt.
- [21
+ [24
 
 
- <./glownywidok.png>] <widoktest.png, id=106, 125.487pt x 223.0515pt>
+ <./glownywidok.png>] <widoktest.png, id=116, 125.487pt x 223.0515pt>
 File: widoktest.png Graphic file (type png)
 
 <use widoktest.png>
-Package pdftex.def Info: widoktest.png used on input line 431.
+Package pdftex.def Info: widoktest.png used on input line 477.
 (pdftex.def)             Requested size: 125.48668pt x 223.05095pt.
- <strefaruchu.jpg, id=107, 135.6705pt x 101.835pt>
+ <strefaruchu.jpg, id=117, 135.6705pt x 101.835pt>
 File: strefaruchu.jpg Graphic file (type jpg)
 
 <use strefaruchu.jpg>
-Package pdftex.def Info: strefaruchu.jpg used on input line 439.
+Package pdftex.def Info: strefaruchu.jpg used on input line 485.
 (pdftex.def)             Requested size: 135.67015pt x 101.83475pt.
- <strefaruchuwynik.png, id=108, 93.6225pt x 166.878pt>
+ <strefaruchuwynik.png, id=118, 93.6225pt x 166.878pt>
 File: strefaruchuwynik.png Graphic file (type png)
 
 <use strefaruchuwynik.png>
-Package pdftex.def Info: strefaruchuwynik.png used on input line 443.
+Package pdftex.def Info: strefaruchuwynik.png used on input line 489.
 (pdftex.def)             Requested size: 93.62225pt x 166.87758pt.
- <uwaga.png, id=109, 200.24812pt x 143.03438pt>
+ <uwaga.png, id=119, 200.24812pt x 143.03438pt>
 File: uwaga.png Graphic file (type png)
 
 <use uwaga.png>
-Package pdftex.def Info: uwaga.png used on input line 451.
+Package pdftex.def Info: uwaga.png used on input line 497.
 (pdftex.def)             Requested size: 150.18571pt x 107.2755pt.
- <uwagawynik.png, id=110, 87.0525pt x 155.052pt>
+ <uwagawynik.png, id=120, 87.0525pt x 155.052pt>
 File: uwagawynik.png Graphic file (type png)
 
 <use uwagawynik.png>
-Package pdftex.def Info: uwagawynik.png used on input line 455.
+Package pdftex.def Info: uwagawynik.png used on input line 501.
 (pdftex.def)             Requested size: 87.05229pt x 155.05162pt.
 
-Underfull \hbox (badness 7326) in paragraph at lines 455--455
+Underfull \hbox (badness 7326) in paragraph at lines 501--501
 []\T1/cmr/m/n/10 (b) Ob-raz prze-two-
  []
 
-<golina.jpg, id=111, 136.3275pt x 102.1635pt>
+<golina.jpg, id=121, 136.3275pt x 102.1635pt>
 File: golina.jpg Graphic file (type jpg)
  <use golina.jpg>
-Package pdftex.def Info: golina.jpg used on input line 463.
+Package pdftex.def Info: golina.jpg used on input line 509.
 (pdftex.def)             Requested size: 136.32715pt x 102.16322pt.
 
-<golinawynik.png, id=112, 85.7385pt x 152.424pt>
+<golinawynik.png, id=122, 85.7385pt x 152.424pt>
 File: golinawynik.png Graphic file (type png)
  <use golinawynik.png>
-Package pdftex.def Info: golinawynik.png used on input line 467.
+Package pdftex.def Info: golinawynik.png used on input line 513.
 (pdftex.def)             Requested size: 85.73828pt x 152.42361pt.
 
-Underfull \hbox (badness 4886) in paragraph at lines 467--467
+Underfull \hbox (badness 4886) in paragraph at lines 513--513
 []\T1/cmr/m/n/10 (b) Ob-raz prze-two-
  []
 
-[22 <./widoktest.png>] [23 <./strefaruchu.jpg> <./strefaruchuwynik.png> <./uwag
-a.png> <./uwagawynik.png> <./golina.jpg> <./golinawynik.png>]
+<rozbiorka.jpg, id=123, 187.45032pt x 128.73094pt>
+File: rozbiorka.jpg Graphic file (type jpg)
+ <use rozbiorka.jpg>
+Package pdftex.def Info: rozbiorka.jpg used on input line 522.
+(pdftex.def)             Requested size: 121.84125pt x 83.6741pt.
+
+<rozbiorkawynik.jpg, id=124, 225.84375pt x 155.58125pt>
+File: rozbiorkawynik.jpg Graphic file (type jpg)
+
+<use rozbiorkawynik.jpg>
+Package pdftex.def Info: rozbiorkawynik.jpg used on input line 526.
+(pdftex.def)             Requested size: 124.21443pt x 85.56993pt.
+ [25 <./widoktest.png>] [26 <./strefaruchu.jpg> <./strefaruchuwynik.png> <./uwa
+ga.png> <./uwagawynik.png> <./golina.jpg> <./golinawynik.png>] <opatkowice.jpg,
+ id=132, 1445.4pt x 235.63031pt>
+File: opatkowice.jpg Graphic file (type jpg)
+ <use opatkowice.jpg>
+Package pdftex.def Info: opatkowice.jpg used on input line 534.
+(pdftex.def)             Requested size: 216.80064pt x 35.34302pt.
+
+<opatkowicewynik.jpg, id=133, 1734.48pt x 284.06125pt>
+File: opatkowicewynik.jpg Graphic file (type jpg)
+
+<use opatkowicewynik.jpg>
+Package pdftex.def Info: opatkowicewynik.jpg used on input line 538.
+(pdftex.def)             Requested size: 173.45816pt x 28.40778pt.
+ <drugastrona.JPG, id=134, 1027.84pt x 770.88pt>
+File: drugastrona.JPG Graphic file (type jpg)
+
+<use drugastrona.JPG>
+Package pdftex.def Info: drugastrona.JPG used on input line 546.
+(pdftex.def)             Requested size: 154.16934pt x 115.627pt.
+ <drugastronawynik.jpg, id=135, 202.7575pt x 97.36375pt>
+File: drugastronawynik.jpg Graphic file (type jpg)
+
+<use drugastronawynik.jpg>
+Package pdftex.def Info: drugastronawynik.jpg used on input line 550.
+(pdftex.def)             Requested size: 202.757pt x 97.3635pt.
+ [27 <./rozbiorka.jpg> <./rozbiorkawynik.jpg> <./opatkowice.jpg> <./opatkowicew
+ynik.jpg> <./drugastrona.JPG> <./drugastronawynik.jpg>]
 Rozdzia\PlPrIeC {\l } 6.
-[24
+[28
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 479--481
+Underfull \hbox (badness 10000) in paragraph at lines 561--563
+\T1/cmr/m/n/12 URL: http://electronics.howstuffworks.com/gadgets/other-gadgets/
+braille-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--567
 \T1/cmr/m/n/12 URL: http://www.johndcook.com/blog/2009/08/24/algorithms-convert
 -color-
  []
 
 
-Overfull \hbox (77.0812pt too wide) in paragraph at lines 491--493
+Overfull \hbox (77.0812pt too wide) in paragraph at lines 577--579
 \T1/cmr/m/n/12 URL: https://developer.android.com/reference/android/support/v7/
 app/AppCompatActivity.html 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--503
-\T1/cmr/m/n/12 URL: http://damianchodorek.com/2015/02/12/kurs-android-intent-in
-tencje-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 503--505
-\T1/cmr/m/n/12 URL: http://smart-soft.net/support/articles/automated-invoice-pr
-ocessing/the-
- []
-
-[25
-
-
-]
-Underfull \hbox (badness 4846) in paragraph at lines 507--509
+Underfull \hbox (badness 4846) in paragraph at lines 579--581
 []\T1/cmr/m/it/12 PorÛwnanie mo-bil-nych sys-te-mÛw An-dro-id, iOS i Win-dows P
 ho-ne 8 \T1/cmr/m/n/12 (do-
  []
 
 
-Underfull \hbox (badness 3989) in paragraph at lines 507--509
+Underfull \hbox (badness 3989) in paragraph at lines 579--581
 \T1/cmr/m/n/12 st¶p: 3.12.2016) URL: http://www.benchmark.pl/testy_i_recenzje/a
 ndroid-ios-
  []
 
 
-Overfull \hbox (16.46138pt too wide) in paragraph at lines 514--516
+Overfull \hbox (16.46138pt too wide) in paragraph at lines 583--585
 \T1/cmr/m/n/12 URL: https://developer.android.com/reference/android/speech/tts/
 TextToSpeech.html 
  []
 
-[26] (in≈ºynierka.aux)
+[29
 
-LaTeX Warning: There were undefined references.
 
- ) 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 593--595
+\T1/cmr/m/n/12 URL: http://damianchodorek.com/2015/02/12/kurs-android-intent-in
+tencje-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--597
+\T1/cmr/m/n/12 URL: http://smart-soft.net/support/articles/automated-invoice-pr
+ocessing/the-
+ []
+
+[30] (in≈ºynierka.aux) ) 
 Here is how much of TeX's memory you used:
- 6400 strings out of 493333
- 85845 string characters out of 3147408
- 224991 words of memory out of 3000000
- 9774 multiletter control sequences out of 15000+200000
+ 6437 strings out of 493333
+ 86601 string characters out of 3147408
+ 238095 words of memory out of 3000000
+ 9801 multiletter control sequences out of 15000+200000
  21137 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,15n,44p,1957b,1009s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecti1200.pk>{R:/LaTeX/fonts/enc/dvips/base/8r.enc}{R:/Nowy folder/fonts/enc/dvi
-ps/pl/plrm.enc}{R:/Nowy folder/fonts/enc/dvips/pl/plmi.enc}{R:/Nowy folder/font
-s/enc/dvips/pl/plms.enc}{R:/Nowy folder/fonts/enc/dvips/pl/plme.enc} <C:\Users\
-nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> 
-<C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecr
-m1000.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\
-dpi600\ecbx1095.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
-nappen\ec\dpi600\ecbx1728.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.
-9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\nieop\AppData\Local
-\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\nieop\App
-Data\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users
-\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk>
- <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ec
-cc1728.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
-\dpi600\ecrm2074.pk><R:/LaTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><R:/Now
-y folder/fonts/type1/public/pl/plex10.pfb><R:/Nowy folder/fonts/type1/public/pl
-/plmi12.pfb><R:/Nowy folder/fonts/type1/public/pl/plmi6.pfb><R:/Nowy folder/fon
-ts/type1/public/pl/plmi8.pfb><R:/Nowy folder/fonts/type1/public/pl/plr12.pfb><R
-:/Nowy folder/fonts/type1/public/pl/plr6.pfb><R:/Nowy folder/fonts/type1/public
-/pl/plr8.pfb><R:/Nowy folder/fonts/type1/public/pl/plsy10.pfb><R:/Nowy folder/f
-onts/type1/public/pl/plsy8.pfb><R:/LaTeX/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on in≈ºynierka.pdf (27 pages, 1520495 bytes).
+ 44i,15n,44p,2106b,1039s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\jknappen\ec\dpi600\ecti1200.pk>{R:/LaTeX/fonts/enc/dvips/base/8r.enc}{R:/Now
+y folder/fonts/enc/dvips/pl/plrm.enc}{R:/Nowy folder/fonts/enc/dvips/pl/plmi.en
+c}{R:/Nowy folder/fonts/enc/dvips/pl/plms.enc}{R:/Nowy folder/fonts/enc/dvips/p
+l/plme.enc} <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\ecbx1440.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\nieop\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\nieop\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\nieop\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Use
+rs\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.p
+k> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecbx2074.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecrm1440.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\eccc1728.pk> <C:\Users\nieop\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecrm2074.pk><R:/LaTeX/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><R:/Nowy folder/fonts/type1/public/pl/plex10.pfb><R:/Nowy folder
+/fonts/type1/public/pl/plmi12.pfb><R:/Nowy folder/fonts/type1/public/pl/plmi6.p
+fb><R:/Nowy folder/fonts/type1/public/pl/plmi8.pfb><R:/Nowy folder/fonts/type1/
+public/pl/plr12.pfb><R:/Nowy folder/fonts/type1/public/pl/plr6.pfb><R:/Nowy fol
+der/fonts/type1/public/pl/plr8.pfb><R:/Nowy folder/fonts/type1/public/pl/plsy10
+.pfb><R:/Nowy folder/fonts/type1/public/pl/plsy8.pfb><R:/LaTeX/fonts/type1/urw/
+courier/ucrr8a.pfb>
+Output written on in≈ºynierka.pdf (31 pages, 1856078 bytes).
 PDF statistics:
- 706 PDF objects out of 1000 (max. 8388607)
+ 735 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
