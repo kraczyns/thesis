@@ -1,6 +1,6 @@
 \contentsline {chapter}{\numberline {1}Wst\IeC {\k e}p}{2}
-\contentsline {section}{\numberline {1.1}Cel pracy}{3}
-\contentsline {section}{\numberline {1.2}Zakres pracy}{3}
+\contentsline {section}{\numberline {1.1}Cel i zakres pracy}{3}
+\contentsline {section}{\numberline {1.2}Struktura pracy}{3}
 \contentsline {chapter}{\numberline {2}Przetwarzanie obrazu}{5}
 \contentsline {section}{\numberline {2.1}Przetwarzanie do skali szaro\IeC {\'s}ci}{6}
 \contentsline {section}{\numberline {2.2}Binaryzacja}{7}
@@ -23,6 +23,4 @@
 \contentsline {section}{\numberline {5.3}Widok docelowy}{25}
 \contentsline {section}{\numberline {5.4}Widok testowy}{25}
 \contentsline {section}{\numberline {5.5}Testy}{27}
-\contentsline {chapter}{\numberline {6}Zako\IeC {\'n}czenie}{28}
-\contentsline {section}{\numberline {6.1}Podsumowanie}{28}
-\contentsline {section}{\numberline {6.2}Mo\IeC {\.z}liwe rozszerzenie}{28}
+\contentsline {chapter}{\numberline {6}Podsumowanie}{29}
